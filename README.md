@@ -1,6 +1,6 @@
 ### Hey hoo, let's code!
 ###### Me chamo Fabrício, ex Analista de TI, atuando na área de suporte e administração de sistemas.
-######🌱 Aspirante e entusiasta a desenvolvedor. 
+###### 🌱 Aspirante e entusiasta a desenvolvedor. 
 
 <!--
 **fadetobash/fadetobash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
