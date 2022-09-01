@@ -1,4 +1,4 @@
-### ⚡Hey hoo, let's code!⚡
+### 🎸Hey hoo, let's code! 💻
 Me chamo Fabrício, ex Analista de TI, atuando na área de suporte e administração de sistemas.
 Aspirante e entusiasta a desenvolvedor.
 
