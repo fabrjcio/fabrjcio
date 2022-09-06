@@ -1,3 +1,3 @@
 ### 🎸Hey hoo, let's code!
-Me chamo Fabrício ou Digão, ex Analista de TI, atuando na área de suporte e administração de sistemas.
+Me chamo Fabrício, outros chamam Digão, Analista de TI. 
 ###### Padawan e entusiasta a desenvolvedor.
