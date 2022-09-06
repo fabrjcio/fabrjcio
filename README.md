@@ -1,4 +1,4 @@
-### 🎸Hey hoo, let's code!
+### 🎸Hey ho! Let's code!
 Me chamo Fabrício, outros chamam Digão.
 
 Carreira profissional resumida
@@ -9,6 +9,8 @@ Carreira profissional resumida
 
 
 "Passe adiante o que você aprendeu. Força, domínio. Mas fragilidade, insensatez, fracasso também. Sim, fracasso acima de tudo. O maior professor, o fracasso é" - Yoda.
+
+
 
 
 <h3 align="left">Contato:</h3>
