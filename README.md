@@ -2,8 +2,8 @@
 Me chamo Fabrício, outros chamam Digão.
 
 Carreira profissional resumida
-- De coordenador especialista em gerenciamento de tempo em computadores compartilhados com acesso a rede de alcance mundial. (Menino da lan house)
-- A "Já reiniciou?" Analista de TI/SysAdmin. (Menino da TI)
+- De coordenador especialista em gerenciamento de tempo em computadores compartilhados com acesso a rede de alcance mundial. (O menino da lan house)
+- A "Já reiniciou?" Analista de TI/SysAdmin. (O carinha da TI)
 
 ### Entusiasta e aprendiz de programação e computação em nuvem.
 
