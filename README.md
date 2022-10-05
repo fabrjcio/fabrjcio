@@ -4,7 +4,7 @@
 #### I'm a Full Stack Developer / Cloud Computer student.
 
 ##### BIO
-- 🌱 Programming enthusiast and learner: `.html`, `.css`, `.js`, `.cs`, `.sh`.
+- 🌱 Programming enthusiast and learner: `.html`, `.css`, `.js`.
 - 🤝 Extremely happy to help people and make friends, feel free to contact-me.
 <img src="https://media0.giphy.com/media/fWfowxJtHySJ0SGCgN/giphy.gif" width="200" height="200" />
 
