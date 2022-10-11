@@ -11,8 +11,9 @@
 
 [![Contact me Telegram](https://img.shields.io/badge/Contact%20me-Telegram-blue.svg)](https://t.me/fabrjcio)
 
-
-![Scrum](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png) 
+#
+Some important values...
+![Scrum](https://github.com/fadetobash/fadetobash/blob/main/images/ScrumValues-1000_edited.png?raw=true) 
 
 #### “Pass on what you have learned. Strength. Mastery. But weakness, folly, failure also. Yes, failure most of all. The greatest teacher, failure is." - Yoda.
 
