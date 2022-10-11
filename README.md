@@ -1,7 +1,7 @@
 
 ### Hi, they call me {Digão/Fabrício}. 
 
-#### I'm a FrontEnd/Backend Developer & Cloud Computer student.
+#### I'm a Front/Back end developer & Cloud Computer student.
 
 ##### BIO
 - 🌱 Programming enthusiast and learner: `.html`, `.css`, `.js`.
