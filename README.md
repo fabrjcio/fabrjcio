@@ -4,13 +4,16 @@
 #### I'm a Front/Back end developer & Cloud Computer student.
 
 ##### BIO
-- 🌱 Programming enthusiast and learner: `.html`, `.css`, `.js`.
+- 🌱 Programming enthusiast and learner: `.html`, `.css`, `.js`. 
 - 💻 +10 years of Computer Technician and TI Analyst/SysAdmin.
 - 🤝 Extremely happy to help people and make friends.
 - 🙋‍♂️ Looking for a jr dev job. [mailto:fabrjcio@gmail.com]
 
 [![Contact me Telegram](https://img.shields.io/badge/Contact%20me-Telegram-blue.svg)](https://t.me/fabrjcio)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+##### PROFILES
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fadetobash)
+
 
 
 #
