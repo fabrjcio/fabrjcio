@@ -7,8 +7,8 @@
 - 🌱 Programming enthusiast and learner: `.html`, `.css`, `.js`. 
 - 💻 +10 years of Computer Technician and TI Analyst/SysAdmin.
 - 🐧 Linux user. 
-- 🤝 Extremely happy to help people and make friends.
-- 🙋‍♂️ Looking for a junior dev job. [mailto:fabrjcio@gmail.com]
+- 🤝 Extremely happy to help & learn. Feel free to contact me! 
+- 🙋‍♂️ Looking for a junior dev job. [fabrjcio@gmail.com]
 
 [![Contact me Telegram](https://img.shields.io/badge/Contact%20me-Telegram-blue.svg)](https://t.me/fabrjcio)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
