@@ -8,11 +8,12 @@
 - 💻 +10 years of Computer Technician and TI Analyst/SysAdmin.
 - 🐧 Linux user. 
 - 🤝 Extremely happy to help & learn. Feel free to contact me! 
-- 🙋‍♂️ Looking for a junior dev job. [fabrjcio@gmail.com]
+- 🙋‍♂️ Looking for a junior dev job. [in]( www.linkedin.com/in/fsousadev)
 
 [![Contact me Telegram](https://img.shields.io/badge/Contact%20me-Telegram-blue.svg)](https://t.me/fabrjcio)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 ##### PROFILES
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fsousadev)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fadetobash)
 <br>
 
