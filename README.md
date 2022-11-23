@@ -8,7 +8,7 @@
 - 💻 +10 years of Computer Technician and TI Analyst/SysAdmin.
 - 🐧 Linux user. 
 - 🤝 Extremely happy to help & learn. Feel free to contact me! 
-- 🙋‍♂️ Looking for a junior dev job. [in](www.linkedin.com/in/fsousati)
+- 🙋‍♂️ Looking for a junior dev job or TI related. [in](www.linkedin.com/in/fsousati)
 
 [![Contact me Telegram](https://img.shields.io/badge/Contact%20me-Telegram-blue.svg)](https://t.me/fabrjcio)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
