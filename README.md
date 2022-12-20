@@ -1,5 +1,5 @@
 
-### Hi, I'm Fabrício!
+## Hi, I'm Fabrício! <img src="https://raw.githubusercontent.com/fabrjcio/fabrjcio/main/images/thumb.gif" width="22px">
 
 ##### BIO
 - 🌱 Learning to code & cloud: `.html` `.css`  `.js` `.lua` `.py` `.azure` `.aws`
