@@ -6,7 +6,6 @@
 - 💻 +10 years of Computer Technician and TI Analyst/SysAdmin.
 - 🐧 Linux user. 
 - 🤝 Extremely happy to help & learn. Feel free to contact me on [telegram](https://telegram.me/fabrjcio) or [here](https://github.com/fabrjcio/fabrjcio/issues/1).
-- 👇 Looking for a junior dev opportunity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fsousati)
 <br>
