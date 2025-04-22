@@ -5,7 +5,7 @@
 - 🌱 Learning to code & surf in the clouds: `.js` `.lua` `.py` `.azure` `.aws`
 - 💻 +10 years of Computer Technician and TI Analyst/SysAdmin.
 - 🤝 Extremely happy to help & learn. Feel free to contact me on [telegram](https://telegram.me/fabrjcio) or [here](https://github.com/fabrjcio/fabrjcio/issues/1).
-- - 🐧 Linux user. 
+- 🐧 Linux user. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fsousati)
 <br>
