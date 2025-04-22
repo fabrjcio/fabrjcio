@@ -12,7 +12,3 @@
 
 #### “Pass on what you have learned. Strength. Mastery. But weakness, folly, failure also. Yes, failure most of all. The greatest teacher, failure is." - Yoda.
 
-#### :brazil: "Passe adiante o que você aprendeu. Força. Domínio. Mas fragilidade, insensatez, fracasso também. Sim, fracasso acima de tudo. O maior professor, o fracasso é" - Yoda. 
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-
